@@ -390,7 +390,7 @@ const movies = [
 //   return result;
 // };
 // console.log(sumAllTheYears());
-/* ESERCIZIO 17 non funziona
+/* ESERCIZIO 17 
   Scrivi una funzione chiamata "searchByTitle" che riceve una stringa come parametro e ritorna i film nell'array "movies" fornito che la contengono nel titolo.
 */
 // const searchByTitle = function (title) {
